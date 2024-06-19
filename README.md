@@ -10,8 +10,8 @@ Bu script, belirtilen sistem servislerinin durumunu izler ve bir servis durduğu
 2. **Yükleme**
    - Script'i indirin:
      ```bash
-     git clone https://github.com/yourusername/service-monitor.git
-     cd service-monitor
+     git clone https://github.com/ugurcomptech/Service-Monitoring-Script
+     cd Service-Monitoring-Script
      ```
 
 3. **Yapılandırma**
