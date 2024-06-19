@@ -47,4 +47,6 @@ Bu script, belirtilen sistem servislerinin durumunu izler ve bir servis durduğu
 
 ## Lisans
 
-Bu script MIT lisansı altında lisanslanmıştır. Daha fazla bilgi için [LICENSE](./LICENSE) dosyasına başvurun.
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+Bu projeyi [MIT Lisansı](https://opensource.org/licenses/MIT) altında lisansladık. Lisansın tam açıklamasını burada bulabilirsiniz.
