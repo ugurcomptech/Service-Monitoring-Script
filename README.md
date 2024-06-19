@@ -17,10 +17,10 @@ Bu script, belirtilen sistem servislerinin durumunu izler ve bir servis durduğu
 3. **Yapılandırma**
    - `service.sh` dosyasını düzenleyerek e-posta ayarlarınızı yapın:
      ```bash
-     SMTP_SERVER="localhost"
+     SMTP_SERVER=""
      SMTP_PORT=25
-     FROM_EMAIL="root@amigdala.site"
-     TO_EMAIL="ugur@ugurcomptech.com.tr"
+     FROM_EMAIL=""
+     TO_EMAIL=""
      SUBJECT="Service Alert"
      BODY_TEMPLATE="Service {service} is {status}. {action}."
      ```
