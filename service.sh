@@ -35,7 +35,7 @@ check_service() {
 # İzlemek istediğiniz servislerin listesi
 SERVICE_NAMES=("mysql" "dovecot" "lsws")
 
-# Ana döngü: Her 5 dakikada bir servis durumlarını kontrol et
+# Ana döngü: Her 10 saniyede bir servis durumlarını kontrol et
 while true; do
     for service in "${SERVICE_NAMES[@]}"; do
         check_service $service
